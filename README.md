@@ -2,7 +2,9 @@
 
 1. Download the folder as a zip file, or clone this project
 
-> $ git clone https://github.com/tommyzheng23/udacity-front-end-p5
+```
+$ git clone https://github.com/tommyzheng23/udacity-front-end-p5
+```
 
 2. In the folder, start a simple HTTP server to serve up the site files on your local computer. Python has some simple tools to do this, and you don't even need to know Python. For most people, it's already installed on your computer.
 
